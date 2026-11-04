@@ -23,6 +23,13 @@
     "timesheet",
     "deployment"
   ],
+  "files": [
+    "extensions",
+    "scripts",
+    ".env.example",
+    "README.md",
+    "LICENSE"
+  ],
   "pi": {
     "extensions": [
       "./extensions/odoo-tools.ts"
